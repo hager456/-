@@ -1,4 +1,15 @@
+@media screen and (max-width:900px) {
+       .photos img{
+        width: 50%;
+        margin: 6px;
 
+      }
+    }
+    @media screen and (max-width: 700px){
+    .photos img{
+      width: 100%;
+      height: auto;
+    }
     .body {
       font-family:'Tahoma', 'open sans', sans-serif;
       background: wheat;}
